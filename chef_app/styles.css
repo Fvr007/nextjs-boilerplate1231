@@ -1,0 +1,8 @@
+
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin:0; background: linear-gradient(180deg,#fffef6,#fff); color:#111;}
+.container{max-width:980px;margin:24px auto;padding:20px;}
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px;}
+.card{background:#fff;padding:16px;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.06);}
+.menu-item{display:flex;align-items:center;gap:12px;padding:10px;border-radius:10px;border:1px solid #f0e6db;}
+.btn{background:#6b4f4b;color:white;padding:8px 12px;border-radius:8px;border:none;cursor:pointer;}
+.select{padding:8px;border-radius:8px;}
